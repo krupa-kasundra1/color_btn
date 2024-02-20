@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/colorbtn/static/css/main.e6c13ad2.css",
+    "main.js": "/colorbtn/static/js/main.af00b55b.js",
+    "static/js/453.15bcfd4e.chunk.js": "/colorbtn/static/js/453.15bcfd4e.chunk.js",
+    "index.html": "/colorbtn/index.html",
+    "main.e6c13ad2.css.map": "/colorbtn/static/css/main.e6c13ad2.css.map",
+    "main.af00b55b.js.map": "/colorbtn/static/js/main.af00b55b.js.map",
+    "453.15bcfd4e.chunk.js.map": "/colorbtn/static/js/453.15bcfd4e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.af00b55b.js"
+  ]
+}
